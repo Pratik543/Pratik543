@@ -2,8 +2,8 @@
 
 # 💫 About Me:
 
-- 🌱 Currently learning Rust🦀.
-- 🔭 Currently working on TypeScript Project.
+- 🌱 Currently learning DevOps.
+- 🔭 Currently working on Automating Deployments using Jenkins, Terraform Projects.
 - 👯 Looking for new opportunities to contribute to the dynamic and ever-evolving tech industry.
 - 🏢 Interested in Working at any Startup (Any Recommendations DM on any social links Provided)
 - ⚡ In my free time, I vibe on songs and try to gain more technology literacy reading some random genius guys blog.
@@ -30,6 +30,10 @@
 # 💻 Tech Stack & Tools I work with:
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="50" alt="aws-logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" height="50" alt="jenkins-logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" height="50" alt="terraform-logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" height="50" alt="maven-logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="50" alt="react-logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg"  height="50" alt="nextjs-logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="50" alt="javascript-logo"/>
@@ -56,7 +60,6 @@
 
 
 ### Hey you code-slinging wizard, loosen that tie and let out a laugh!
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
