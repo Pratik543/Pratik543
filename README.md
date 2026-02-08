@@ -125,8 +125,6 @@
 
 <details>
 <summary>Click for 🔥 My Stats</summary>
-  Monkeytype stats
-  https://monkeytype.com/profile/http.dualsquare
     <div align="center">
       <img src="https://visitor-badge.laobi.icu/badge?page_id=Pratik543&right_color=deeppink&left_text=Profile%20Views"  />
     </div>
