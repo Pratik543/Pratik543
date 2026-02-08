@@ -5,7 +5,7 @@
 - 🌱 Currently learning DevOps.
 - 🔭 Currently working on Automating Deployments using Jenkins, Terraform Projects.
 - 👯 Looking for new opportunities to contribute to the dynamic and ever-evolving tech industry.
-- 🏢 Interested in Working at any Startup (Any Recommendations DM on any social links Provided)
+- 🏢 Interested in Working at Startup (Any Recommendations DM on any social links Provided)
 - ⚡ In my free time, I vibe on songs and try to gain more technology literacy reading some random genius guys blog.
 
 > With a keen eye for detail and dedication to craftsmanship, I strive to deliver standout digital solutions. I push the boundaries of conventional design to turn ideas into reality and enhance user experiences.
@@ -24,6 +24,11 @@
 <a href="https://twitter.com/PratikG67" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=x&label=&color=000&logoColor=white&labelColor=&style=flat" height="25" alt="Twitter logo"/>
 </a>
+<a href="https://monkeytype.com/profile/http.dualsquare" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Monkeytype&logo=monkeytype&label=&color=f9c74f&logoColor=black&labelColor=&style=flat" height="25" alt="Monkeytype logo"/>
+</a>
+
+
 
 ###
 
@@ -120,10 +125,11 @@
 
 <details>
 <summary>Click for 🔥 My Stats</summary>
-<p align="center">
+  Monkeytype stats
+  https://monkeytype.com/profile/http.dualsquare
     <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Pratik543&right_color=deeppink&left_text=Profile%20Views"  />
-</div>
+      <img src="https://visitor-badge.laobi.icu/badge?page_id=Pratik543&right_color=deeppink&left_text=Profile%20Views"  />
+    </div>
 
 ###
 
@@ -132,3 +138,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pratik543&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 </details>
+
+
